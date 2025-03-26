@@ -1,0 +1,47 @@
+/* Apply styling to the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Style the title using a class selector */
+.title {
+    color: #007bff;
+    font-size: 28px;
+    margin-top: 20px;
+    text-transform: uppercase;
+}
+
+/* Style a paragraph using an ID selector */
+#intro {
+    color: #333;
+    font-size: 18px;
+    padding: 10px;
+    margin: 20px auto;
+    width: 80%;
+    border: 2px solid #007bff;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+/* Style an online image */
+.styled-image {
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 15px;
+    border: 3px solid #007bff;
+}
+
+/* Style the footer */
+footer {
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
